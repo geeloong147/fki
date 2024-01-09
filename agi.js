@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>JavaScript HTML Events </h1>
+<h1>JavaScript HTML Eventss </h1>
 <h2> The onclick Attribute </h2>
 
 <button onclick="document.getElementById('demo').innerHTML=Date()">The stime is noiwe notttt?</button> 

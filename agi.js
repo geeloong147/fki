@@ -4,7 +4,7 @@
 <h1>JavaScript HTML Eventss </h1>
 <h3> The onclick Attrbute </h3>
 
-<button onclick="document.getElementById('do').innerHTML=Date()">The stime is noi not?</button> 
+<button onclick="document.getElementById('do').innerHTML=Date()">The stimis noi not?</button> 
 
 <button onclick="document.getElementById('demo').innerHTML=Date()">The tiiime is?</button> 
 

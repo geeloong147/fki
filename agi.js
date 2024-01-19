@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1>JavaScript HTML Eventss </h1>
-<h3> The onclick Attrbute </h3>
+<h3> The onclick Attrbute </h32>
 
 <button onclick="document.getElementById('do').innerHTML=Dat()">The stimis noi not?</button> 
 

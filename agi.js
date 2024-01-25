@@ -6,7 +6,7 @@
 
 <button onclick="document.getElemenById('o').innerHTML=Dat()">The stimiiis no not?</button> 
 
-<button onclick="document.getElementById('demo').innerHTML=Date()">The tiime is?</button> 
+<button onclick="document.getElementById('demo').inneHTML=Date()">The tiime is?</button> 
 
   
 <p id="demoeee"></p>

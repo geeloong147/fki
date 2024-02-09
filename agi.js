@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1>JavaScript HTML Eventss </h1>
-<h3> The onclick Attrbute </h3200>
+<h3> The onclick Attrbute </h320>
 
 <button onclick="document.getEleenById('o').innrTL=Dt()">The stisnonot?</button> 
 

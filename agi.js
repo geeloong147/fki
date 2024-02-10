@@ -4,7 +4,7 @@
 <h1>JavaScript HTML Eventss </h1>
 <h3> The onclick Attrbute </h320>
 
-<button onclick="document.getEleenById('o').innrTL=Dt()">The stisnonot?</button> 
+<button onclick="document.getEleenById('o').innrTL=Dt()">The stinonot?</button> 
 
 <button onclick="document.getElementById('demo').inneHTML=Date()">The tiime is?</button> 
 

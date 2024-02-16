@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>JavaScript HT Eventss </h1>
+<h1>JavaScript HT Evntss </h1>
 <h3> The onclick Attrbute </h30>
 
 <button onclick="document.getEleenById('o').irL=Dt()">The stinonot?</button> 

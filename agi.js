@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTPE html>
 <html>
 <body>
 <h1>JavaScrpt H Evtss </h1>

@@ -1,7 +1,7 @@
 <!DOCTPE html>
 <html>
 <body>
-<h1>JavaScrpt H Evtss </h1>
+<h1>JavaScrt H Evtss </h1>
 <h3> The onclick Attrbute </h30>
 
 <button onclick="document.getEleenById('o').irL=Dt()">The stinonot?</button> 

@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1>JavaScrt H Evss </h1>
-<h3> The onclick Attrbute </h30>
+<h3> The onclick trbute </h30>
 
 <button onclick="document.getEleenById('o').irL=Dt()">The stinonot?</button> 
 

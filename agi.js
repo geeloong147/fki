@@ -6,7 +6,7 @@
 
 <button onclick="document.getElenById('o').irL=t()">The stonot?</button> 
 
-<button onclick="document.getElemenyId('demo').ineHML=Date()">The time is?</button> 
+<button onclick="document.getElemenyId('deo').ineHML=Date()">The time is?</button> 
 
   
 <p id="demoeee"></p>

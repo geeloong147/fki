@@ -4,7 +4,7 @@
 <h1>JavaScrt  vss </h1>
 <h3> The onclick trute </h30>
 
-<button onclick="document.getleyId('o').irL=t()">The stnot?</button> 
+<button onclick="document.getlyId('o').irL=t()">The stnot?</button> 
 
 <button onclick="document.getElemenyId('deo').ineHL=Date()">The time is?</button> 
 

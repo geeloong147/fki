@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1>JavaScrt  vss </h1>
-<h3> The onclick trute </h30>
+<h3> The oncick trute </h30>
 
 <button onclick="document.getlyId('o').irL=t()">The stnot?</button> 
 

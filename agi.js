@@ -1,7 +1,7 @@
 <!DOCTPE html>
 <html>
 <body>
-<h1>JavScrt  vss </h>
+<h1>JavScrt  vs </h>
 <h3> The oncick trute </h30>
 
 <button onclick="document.getlyId('o').irL=t()">The stnot?</button> 

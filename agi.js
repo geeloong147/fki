@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1>JavScrt  vs </h>
-<h3> The oncick trute </h30>
+<h3> The oncick tre </h30>
 
 <button onclick="document.getlyId('o').irL=t()">The stnot?</button> 
 
